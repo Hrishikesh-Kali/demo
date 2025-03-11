@@ -1,2 +1,2 @@
-# demo
-first test repo.
+# Hrishi-demo
+This is the first test repo.
